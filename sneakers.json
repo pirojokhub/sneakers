@@ -1,0 +1,74 @@
+[
+	{
+		"id": 1,
+		"title": "Сланцы Adidas Yeezy Slide",
+		"price": 3290,
+		"sku": "Артикул 19656",
+		"img": "https://raw.githubusercontent.com/pirojokhub/sneaker/main/img/slantsy-adidas-yeezy-slide.png",
+		"season": "Лето",
+		"color": "Бежевый",
+		"category": "Сандалии и сланцы",
+		"brand": "Adidas",
+		"description": "Минималистичные сланцы Adidas Yeezy Slide идеально подойдут для повседневной носки. Изготовлены из лёгкого и прочного материала, обеспечивают комфорт на весь день."
+	},
+	{
+		"id": 2,
+		"title": "Кроссовки Adidas EQT Support ADV PK",
+		"price": 6900,
+		"sku": "Артикул 19656",
+		"img": "https://raw.githubusercontent.com/pirojokhub/sneaker/main/img/ADIDAS-EQT-SUPPORT.png",
+		"season": "Демисезон",
+		"color": "Красный / Чёрный",
+		"category": "Кроссовки",
+		"brand": "Adidas",
+		"description": "Современные кроссовки с адаптивной посадкой и вязаным верхом Primeknit. Отличный выбор для активного образа жизни и городского стиля."
+	},
+	{
+		"id": 3,
+		"title": "Кроссовки Adidas Alphabounce Instinct",
+		"price": 3290,
+		"sku": "Артикул 19656",
+		"img": "https://raw.githubusercontent.com/pirojokhub/sneaker/main/img/КРОССОВКИ-ADIDAS-ALPHABOUNCE-INSTINCT.png",
+		"season": "Демисезон",
+		"color": "Красный",
+		"category": "Кроссовки",
+		"brand": "Adidas",
+		"description": "Кроссовки с технологией амортизации Bounce, обеспечивающей гибкость и поддержку. Стильный выбор для тренировок и прогулок."
+	},
+	{
+		"id": 4,
+		"title": "Кроссовки Adidas EQT Support ADV PK",
+		"price": 6700,
+		"sku": "Артикул 19656",
+		"img": "https://raw.githubusercontent.com/pirojokhub/sneaker/main/img/krossovki-adidas-eqt-support-adv-pk-1.png",
+		"season": "Зима",
+		"color": "Фиолетовый / Оранжевый",
+		"category": "Кроссовки с мехом",
+		"brand": "Adidas",
+		"description": "Обновлённая модель EQT Support ADV с лёгкой подошвой и усиленным задником. Отличный баланс между удобством и стилем."
+	},
+	{
+		"id": 5,
+		"title": "Кроссовки Adidas Alphabounce Instinct",
+		"price": 2390,
+		"sku": "Артикул 19656",
+		"img": "https://raw.githubusercontent.com/pirojokhub/sneaker/main/img/КРОССОВКИ-ADIDAS-ALPHABOUNCE%20-NSTINCT.png",
+		"season": "Демисезон",
+		"color": "Белый",
+		"category": "Кроссовки",
+		"brand": "Adidas",
+		"description": "Функциональные кроссовки с амортизацией и стильным дизайном. Подходят для любых тренировок и повседневной носки."
+	},
+	{
+		"id": 6,
+		"title": "Кроссовки Adidas EQT Support ADV PK",
+		"price": 2130,
+		"sku": "Артикул 19656",
+		"img": "https://raw.githubusercontent.com/pirojokhub/sneaker/main/img/YEEZY-SLIDE.png",
+		"season": "Демисезон",
+		"color": "Голубой / Красный / Белый",
+		"category": "Кроссовки",
+		"brand": "Adidas",
+		"description": "Лёгкие спортивные кроссовки с сетчатым верхом и классическим силуэтом. Дышащие материалы и эргономичный дизайн."
+	}
+]
