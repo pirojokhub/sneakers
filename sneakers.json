@@ -1,4 +1,4 @@
-[
+ [
   {
     "id": 1,
     "title": "Сланцы Adidas Yeezy Slide",
@@ -10,74 +10,261 @@
     "category": "Сандалии и сланцы",
     "brand": "Adidas",
     "description": "Минималистичные сланцы Adidas Yeezy Slide идеально подойдут для повседневной носки. Изготовлены из лёгкого и прочного материала, обеспечивают комфорт на весь день.",
-    "date": "2 января 2025"
+    "date": "2025-01-02" // Изменен формат даты для сортировки
   },
   {
     "id": 2,
-    "title": "Сланцы Adidas Yeezy Slide22",
+    "title": "Сланцы Adidas Yeezy Slide (Черные)", // Уточнено название
     "price": 3290,
-    "sku": "Артикул 19656",
+    "sku": "Артикул 19657", // Изменен артикул
     "img": "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/yeezyslancky.png",
     "season": "Лето",
     "color": "Черный",
     "category": "Сандалии и сланцы",
     "brand": "Adidas",
-    "description": "Современные кроссовки с адаптивной посадкой и вязаным верхом Primeknit. Отличный выбор для активного образа жизни и городского стиля.",
-    "date": "14 февраля 2025"
+    "description": "Современные кроссовки с адаптивной посадкой и вязаным верхом Primeknit. Отличный выбор для активного образа жизни и городского стиля.", // Описание больше похоже на кроссовки? Оставим пока так.
+    "date": "2025-02-14"
   },
   {
     "id": 3,
     "title": "Кроссовки Adidas Alphabounce Instinct",
     "price": 3290,
-    "sku": "Артикул 19656",
+    "sku": "Артикул 19658",
     "img": "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/instite.png",
     "season": "Демисезон",
     "color": "Красный",
-    "category": "Кроссовки",
+    "category": "Бег", // Уточнена категория
     "brand": "Adidas",
     "description": "Кроссовки с технологией амортизации Bounce, обеспечивающей гибкость и поддержку. Стильный выбор для тренировок и прогулок.",
-    "date": "3 марта 2025"
+    "date": "2025-03-03"
   },
   {
     "id": 4,
     "title": "Кроссовки Adidas EQT Support ADV PK",
     "price": 6700,
-    "sku": "Артикул 19656",
+    "sku": "Артикул 19659",
     "img": "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/support.png",
     "season": "Зима",
     "color": "Фиолетовый / Оранжевый",
     "category": "Кроссовки с мехом",
     "brand": "Adidas",
     "description": "Обновлённая модель EQT Support ADV с лёгкой подошвой и усиленным задником. Отличный баланс между удобством и стилем.",
-    "date": "19 марта 2025"
+    "date": "2025-03-19"
   },
   {
     "id": 5,
-    "title": "Кроссовки Adidas Alphabounce Instinct",
+    "title": "Кроссовки Adidas Alphabounce Instinct (Белые)",
     "price": 2390,
-    "sku": "Артикул 19656",
+    "sku": "Артикул 19660",
     "img": "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/nstite.png",
     "season": "Демисезон",
     "color": "Белый",
-    "category": "Кроссовки",
+    "category": "Тренировочные", // Уточнена категория
     "brand": "Adidas",
     "description": "Функциональные кроссовки с амортизацией и стильным дизайном. Подходят для любых тренировок и повседневной носки.",
-    "date": "9 апреля 2025"
+    "date": "2025-04-09"
   },
   {
     "id": 6,
-    "title": "Кроссовки Adidas EQT Support ADV PK",
+    "title": "Кроссовки Adidas EQT Support ADV PK (Красные/Черные)",
     "price": 2130,
-    "sku": "Артикул 19656",
+    "sku": "Артикул 19661",
     "img": "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/advpk1.png",
     "season": "Демисезон",
     "color": "Красный/Черный",
-    "category": "Кроссовки",
+    "category": "Повседневные", // Уточнена категория
     "brand": "Adidas",
     "description": "Лёгкие спортивные кроссовки с сетчатым верхом и классическим силуэтом. Дышащие материалы и эргономичный дизайн.",
-    "date": "21 апреля 2025"
+    "date": "2025-04-21"
+  },
+  // --- Новые товары (ID 7-20) ---
+  {
+    "id": 7,
+    "title": "Кроссовки Nike Air Max 270",
+    "price": 7100,
+    "sku": "Артикул 20101",
+    "img": "https://via.placeholder.com/250x200?text=Nike+AirMax+270", // Плейсхолдер
+    "season": "Лето",
+    "color": "Черный/Синий",
+    "category": "Лайфстайл",
+    "brand": "Nike",
+    "description": "Популярная модель Air Max с большой видимой воздушной подушкой для максимального комфорта и стиля.",
+    "date": "2025-05-01"
+  },
+  {
+    "id": 8,
+    "title": "Кроссовки Puma RS-X",
+    "price": 5500,
+    "sku": "Артикул 20102",
+    "img": "https://via.placeholder.com/250x200?text=Puma+RSX", // Плейсхолдер
+    "season": "Демисезон",
+    "color": "Белый/Красный/Синий",
+    "category": "Повседневные",
+    "brand": "Puma",
+    "description": "Массивные кроссовки в стиле ретро-футуризма с технологией амортизации Running System.",
+    "date": "2025-05-05"
+  },
+  {
+    "id": 9,
+    "title": "Кеды Converse Chuck Taylor All Star",
+    "price": 4200,
+    "sku": "Артикул 20103",
+    "img": "https://via.placeholder.com/250x200?text=Converse+AllStar", // Плейсхолдер
+    "season": "Лето",
+    "color": "Белый",
+    "category": "Классические модели",
+    "brand": "Converse",
+    "description": "Легендарные кеды с высоким верхом из парусины. Нестареющая классика на все времена.",
+    "date": "2025-05-10"
+  },
+  {
+    "id": 10,
+    "title": "Кроссовки New Balance 574",
+    "price": 6990,
+    "sku": "Артикул 20104",
+    "img": "https://via.placeholder.com/250x200?text=NB+574", // Плейсхолдер
+    "season": "Демисезон",
+    "color": "Серый",
+    "category": "Повседневные",
+    "brand": "New Balance",
+    "description": "Классическая модель New Balance с технологией ENCAP для поддержки и долговечности. Идеальны для города.",
+    "date": "2025-05-15"
+  },
+   {
+    "id": 11,
+    "title": "Кроссовки Reebok Classic Leather",
+    "price": 4800,
+    "sku": "Артикул 20105",
+    "img": "https://via.placeholder.com/250x200?text=Reebok+Classic", // Плейсхолдер
+    "season": "Демисезон",
+    "color": "Белый",
+    "category": "Классические модели",
+    "brand": "Reebok",
+    "description": "Иконическая модель Reebok из мягкой кожи. Простой, но элегантный дизайн для любого случая.",
+    "date": "2025-05-20"
+  },
+  {
+    "id": 12,
+    "title": "Кроссовки Asics Gel-Kayano",
+    "price": 8300,
+    "sku": "Артикул 20106",
+    "img": "https://via.placeholder.com/250x200?text=Asics+GelKayano", // Плейсхолдер
+    "season": "Демисезон",
+    "color": "Синий/Серебристый",
+    "category": "Бег",
+    "brand": "Asics",
+    "description": "Премиальные беговые кроссовки с технологией GEL для максимальной амортизации и стабильности.",
+    "date": "2025-05-25"
+  },
+   {
+    "id": 13,
+    "title": "Кеды Vans Old Skool",
+    "price": 4500,
+    "sku": "Артикул 20107",
+    "img": "https://via.placeholder.com/250x200?text=Vans+OldSkool", // Плейсхолдер
+    "season": "Лето",
+    "color": "Черный/Белый",
+    "category": "Скейтбординг",
+    "brand": "Vans",
+    "description": "Классические скейтерские кеды с узнаваемой боковой полосой Jazz Stripe.",
+    "date": "2025-06-01"
+  },
+  {
+    "id": 14,
+    "title": "Кроссовки Nike Air Force 1",
+    "price": 7500,
+    "sku": "Артикул 20108",
+    "img": "https://via.placeholder.com/250x200?text=Nike+AF1", // Плейсхолдер
+    "season": "Демисезон",
+    "color": "Белый",
+    "category": "Лайфстайл",
+    "brand": "Nike",
+    "description": "Легендарные баскетбольные кроссовки, ставшие иконой уличного стиля. Технология Air для комфорта.",
+    "date": "2025-06-05"
+  },
+   {
+    "id": 15,
+    "title": "Ботинки Timberland 6-Inch Premium",
+    "price": 9500, // Ботинки обычно дороже
+    "sku": "Артикул 20109",
+    "img": "https://via.placeholder.com/250x200?text=Timberland", // Плейсхолдер
+    "season": "Зима",
+    "color": "Желтый (Wheat)",
+    "category": "Ботинки",
+    "brand": "Timberland",
+    "description": "Классические водонепроницаемые ботинки Timberland из премиального нубука.",
+    "date": "2025-06-10"
+  },
+  {
+    "id": 16,
+    "title": "Кроссовки Adidas Stan Smith",
+    "price": 5200,
+    "sku": "Артикул 20110",
+    "img": "https://via.placeholder.com/250x200?text=Adidas+StanSmith", // Плейсхолдер
+    "season": "Лето",
+    "color": "Белый/Зеленый",
+    "category": "Теннис",
+    "brand": "Adidas",
+    "description": "Иконические теннисные туфли с минималистичным дизайном и перфорированными тремя полосками.",
+    "date": "2025-06-15"
+  },
+  {
+    "id": 17,
+    "title": "Кроссовки Jordan Air Jordan 1",
+    "price": 9900, // Джорданы часто дорогие
+    "sku": "Артикул 20111",
+    "img": "https://via.placeholder.com/250x200?text=Jordan+AJ1", // Плейсхолдер
+    "season": "Демисезон",
+    "color": "Красный/Черный/Белый",
+    "category": "Баскетбол",
+    "brand": "Jordan",
+    "description": "Легендарная первая модель именных кроссовок Майкла Джордана.",
+    "date": "2025-06-20"
+  },
+  {
+    "id": 18,
+    "title": "Кроссовки Salomon Speedcross",
+    "price": 7800,
+    "sku": "Артикул 20112",
+    "img": "https://via.placeholder.com/250x200?text=Salomon+Speedcross", // Плейсхолдер
+    "season": "Демисезон",
+    "color": "Черный/Красный",
+    "category": "Треккинг",
+    "brand": "Salomon",
+    "description": "Популярные кроссовки для трейлраннинга и пересеченной местности с агрессивным протектором.",
+    "date": "2025-06-25"
+  },
+   {
+    "id": 19,
+    "title": "Кроссовки Fila Disruptor II",
+    "price": 4900,
+    "sku": "Артикул 20113",
+    "img": "https://via.placeholder.com/250x200?text=Fila+Disruptor", // Плейсхолдер
+    "season": "Демисезон",
+    "color": "Белый",
+    "category": "Кроссовки на платформе",
+    "brand": "Fila",
+    "description": "Массивные кроссовки в стиле 90-х с характерной 'зубастой' подошвой.",
+    "date": "2025-07-01"
+  },
+  {
+    "id": 20,
+    "title": "Кроссовки Skechers D'Lites",
+    "price": 4500,
+    "sku": "Артикул 20114",
+    "img": "https://via.placeholder.com/250x200?text=Skechers+DLites", // Плейсхолдер
+    "season": "Демисезон",
+    "color": "Белый/Серебристый",
+    "category": "Повседневные",
+    "brand": "Skechers",
+    "description": "Удобные и стильные кроссовки с эффектом памяти Memory Foam.",
+    "date": "2025-07-05"
   }
-]
+];
+
+// Теперь ты можешь использовать этот массив `mockProducts` вместо твоего исходного массива `products`
+// Например, передать его как пропс: <KrossovkiPage products={mockProducts} />
+// или использовать его напрямую в компоненте, если данные загружаются там.
 
 
 
