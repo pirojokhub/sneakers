@@ -1,4 +1,4 @@
- [
+[
   {
     "id": 1,
     "title": "Сланцы Adidas Yeezy Slide",
@@ -9,8 +9,8 @@
     "color": "Бежевый",
     "category": "Сандалии и сланцы",
     "brand": "Adidas",
-    "description": "Минималистичные сланцы Adidas Yeezy Slide идеально подойдут для повседневной носки. Изготовлены из лёгкого и прочного материала, обеспечивают комфорт на весь день.",
-    "date": "2025-01-02" 
+    "description": "Минималистичные сланцы Adidas Yeezy Slide идеально подойдут для повседневной носки.",
+    "date": "2025-01-02"
   },
   {
     "id": 2,
@@ -22,7 +22,7 @@
     "color": "Черный",
     "category": "Сандалии и сланцы",
     "brand": "Adidas",
-    "description": "Современные кроссовки с адаптивной посадкой и вязаным верхом Primeknit. Отличный выбор для активного образа жизни и городского стиля.", 
+    "description": "Стильные черные сланцы для летнего сезона и бассейна.",
     "date": "2025-02-14"
   },
   {
@@ -33,9 +33,9 @@
     "img": "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/instite.png",
     "season": "Демисезон",
     "color": "Красный",
-    "category": "Бег", 
+    "category": "Бег",
     "brand": "Adidas",
-    "description": "Кроссовки с технологией амортизации Bounce, обеспечивающей гибкость и поддержку. Стильный выбор для тренировок и прогулок.",
+    "description": "Кроссовки с технологией амортизации Bounce, обеспечивающей гибкость и поддержку.",
     "date": "2025-03-03"
   },
   {
@@ -48,7 +48,7 @@
     "color": "Фиолетовый / Оранжевый",
     "category": "Кроссовки с мехом",
     "brand": "Adidas",
-    "description": "Обновлённая модель EQT Support ADV с лёгкой подошвой и усиленным задником. Отличный баланс между удобством и стилем.",
+    "description": "Обновлённая модель EQT Support ADV с лёгкой подошвой и усиленным задником.",
     "date": "2025-03-19"
   },
   {
@@ -59,9 +59,9 @@
     "img": "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/nstite.png",
     "season": "Демисезон",
     "color": "Белый",
-    "category": "Тренировочные", 
+    "category": "Тренировочные",
     "brand": "Adidas",
-    "description": "Функциональные кроссовки с амортизацией и стильным дизайном. Подходят для любых тренировок и повседневной носки.",
+    "description": "Функциональные кроссовки с амортизацией и стильным дизайном.",
     "date": "2025-04-09"
   },
   {
@@ -74,22 +74,20 @@
     "color": "Красный/Черный",
     "category": "Повседневные",
     "brand": "Adidas",
-    "description": "Лёгкие спортивные кроссовки с сетчатым верхом и классическим силуэтом. Дышащие материалы и эргономичный дизайн.",
+    "description": "Лёгкие спортивные кроссовки с сетчатым верхом и классическим силуэтом.",
     "date": "2025-04-21"
   },
-
   {
     "id": 7,
     "title": "Кроссовки Nike Air Max 270",
     "price": 7100,
     "sku": "Артикул 20101",
     "img": "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/yeezyslide.png",
-    
     "season": "Лето",
     "color": "Черный/Синий",
     "category": "Лайфстайл",
     "brand": "Nike",
-    "description": "Популярная модель Air Max с большой видимой воздушной подушкой для максимального комфорта и стиля.",
+    "description": "Популярная модель Air Max с большой видимой воздушной подушкой.",
     "date": "2025-05-01"
   },
   {
@@ -98,12 +96,11 @@
     "price": 5500,
     "sku": "Артикул 20102",
     "img": "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/advpk1.png",
-    
     "season": "Демисезон",
     "color": "Белый/Красный/Синий",
     "category": "Повседневные",
     "brand": "Puma",
-    "description": "Массивные кроссовки в стиле ретро-футуризма с технологией амортизации Running System.",
+    "description": "Массивные кроссовки в стиле ретро-футуризма с технологией Running System.",
     "date": "2025-05-05"
   },
   {
@@ -112,12 +109,11 @@
     "price": 4200,
     "sku": "Артикул 20103",
     "img": "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/advpk1.png",
-    
     "season": "Лето",
     "color": "Белый",
     "category": "Классические модели",
     "brand": "Converse",
-    "description": "Легендарные кеды с высоким верхом из парусины. Нестареющая классика на все времена.",
+    "description": "Легендарные кеды с высоким верхом из парусины.",
     "date": "2025-05-10"
   },
   {
@@ -130,7 +126,7 @@
     "color": "Серый",
     "category": "Повседневные",
     "brand": "New Balance",
-    "description": "Классическая модель New Balance с технологией ENCAP для поддержки и долговечности. Идеальны для города.",
+    "description": "Классическая модель New Balance с технологией ENCAP для поддержки.",
     "date": "2025-05-15"
   },
    {
@@ -143,7 +139,7 @@
     "color": "Белый",
     "category": "Классические модели",
     "brand": "Reebok",
-    "description": "Иконическая модель Reebok из мягкой кожи. Простой, но элегантный дизайн для любого случая.",
+    "description": "Иконическая модель Reebok из мягкой кожи.",
     "date": "2025-05-20"
   },
   {
@@ -156,7 +152,7 @@
     "color": "Синий/Серебристый",
     "category": "Бег",
     "brand": "Asics",
-    "description": "Премиальные беговые кроссовки с технологией GEL для максимальной амортизации и стабильности.",
+    "description": "Премиальные беговые кроссовки с технологией GEL.",
     "date": "2025-05-25"
   },
    {
@@ -169,7 +165,7 @@
     "color": "Черный/Белый",
     "category": "Скейтбординг",
     "brand": "Vans",
-    "description": "Классические скейтерские кеды с узнаваемой боковой полосой Jazz Stripe.",
+    "description": "Классические скейтерские кеды с боковой полосой Jazz Stripe.",
     "date": "2025-06-01"
   },
   {
@@ -182,20 +178,20 @@
     "color": "Белый",
     "category": "Лайфстайл",
     "brand": "Nike",
-    "description": "Легендарные баскетбольные кроссовки, ставшие иконой уличного стиля. Технология Air для комфорта.",
+    "description": "Легендарные баскетбольные кроссовки, ставшие иконой стиля.",
     "date": "2025-06-05"
   },
    {
     "id": 15,
     "title": "Ботинки Timberland 6-Inch Premium",
-    "price": 9500, 
+    "price": 9500,
     "sku": "Артикул 20109",
     "img": "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/advpk1.png",
     "season": "Зима",
     "color": "Желтый (Wheat)",
     "category": "Ботинки",
     "brand": "Timberland",
-    "description": "Классические водонепроницаемые ботинки Timberland из премиального нубука.",
+    "description": "Классические водонепроницаемые ботинки из премиального нубука.",
     "date": "2025-06-10"
   },
   {
@@ -208,7 +204,7 @@
     "color": "Белый/Зеленый",
     "category": "Теннис",
     "brand": "Adidas",
-    "description": "Иконические теннисные туфли с минималистичным дизайном и перфорированными тремя полосками.",
+    "description": "Иконические теннисные туфли с минималистичным дизайном.",
     "date": "2025-06-15"
   },
   {
@@ -234,7 +230,7 @@
     "color": "Черный/Красный",
     "category": "Треккинг",
     "brand": "Salomon",
-    "description": "Популярные кроссовки для трейлраннинга и пересеченной местности с агрессивным протектором.",
+    "description": "Популярные кроссовки для трейлраннинга с агрессивным протектором.",
     "date": "2025-06-25"
   },
    {
@@ -262,6 +258,266 @@
     "brand": "Skechers",
     "description": "Удобные и стильные кроссовки с эффектом памяти Memory Foam.",
     "date": "2025-07-05"
+  },
+  {
+    "id": 21,
+    "title": "Кроссовки Nike React Element 55",
+    "price": 6800,
+    "sku": "Артикул 20115",
+    "img": "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/yeezyslide.png",
+    "season": "Лето",
+    "color": "Серый/Оранжевый",
+    "category": "Лайфстайл",
+    "brand": "Nike",
+    "description": "Современные кроссовки с пеной React для легкости и комфорта.",
+    "date": "2025-07-10"
+  },
+  {
+    "id": 22,
+    "title": "Кроссовки Adidas Ultraboost 22",
+    "price": 11500,
+    "sku": "Артикул 20116",
+    "img": "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/yeezyslancky.png",
+    "season": "Демисезон",
+    "color": "Черный",
+    "category": "Бег",
+    "brand": "Adidas",
+    "description": "Беговые кроссовки с максимальной отдачей энергии благодаря пене Boost.",
+    "date": "2025-07-15"
+  },
+   {
+    "id": 23,
+    "title": "Кеды Puma Suede Classic",
+    "price": 4600,
+    "sku": "Артикул 20117",
+    "img": "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/instite.png",
+    "season": "Демисезон",
+    "color": "Синий",
+    "category": "Классические модели",
+    "brand": "Puma",
+    "description": "Классические замшевые кеды Puma, ставшие иконой уличной моды.",
+    "date": "2025-07-20"
+  },
+  {
+    "id": 24,
+    "title": "Кроссовки New Balance 990v5",
+    "price": 12500,
+    "sku": "Артикул 20118",
+    "img": "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/support.png",
+    "season": "Демисезон",
+    "color": "Серый",
+    "category": "Повседневные",
+    "brand": "New Balance",
+    "description": "Премиальная модель New Balance, сочетающая комфорт и стиль.",
+    "date": "2025-07-25"
+  },
+   {
+    "id": 25,
+    "title": "Ботинки Dr. Martens 1460",
+    "price": 9800,
+    "sku": "Артикул 20119",
+    "img": "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/nstite.png",
+    "season": "Зима",
+    "color": "Черный",
+    "category": "Ботинки",
+    "brand": "Dr. Martens",
+    "description": "Культовые ботинки Dr. Martens с 8 люверсами и прочной подошвой.",
+    "date": "2025-08-01"
+  },
+  {
+    "id": 26,
+    "title": "Кроссовки Nike Blazer Mid '77",
+    "price": 6200,
+    "sku": "Артикул 20120",
+    "img": "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/advpk1.png",
+    "season": "Демисезон",
+    "color": "Белый/Красный",
+    "category": "Лайфстайл",
+    "brand": "Nike",
+    "description": "Винтажные баскетбольные кроссовки с высоким профилем.",
+    "date": "2025-08-05"
+  },
+  {
+    "id": 27,
+    "title": "Кроссовки Adidas Forum Low",
+    "price": 5900,
+    "sku": "Артикул 20121",
+    "img": "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/yeezyslide.png",
+    "season": "Лето",
+    "color": "Белый/Синий",
+    "category": "Баскетбол",
+    "brand": "Adidas",
+    "description": "Классические низкие баскетбольные кроссовки Adidas Forum.",
+    "date": "2025-08-10"
+  },
+  {
+    "id": 28,
+    "title": "Кроссовки Hoka Clifton 8",
+    "price": 9100,
+    "sku": "Артикул 20122",
+    "img": "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/yeezyslancky.png",
+    "season": "Демисезон",
+    "color": "Голубой/Желтый",
+    "category": "Бег",
+    "brand": "Hoka",
+    "description": "Легкие и мягкие кроссовки для ежедневных пробежек от Hoka.",
+    "date": "2025-08-15"
+  },
+  {
+    "id": 29,
+    "title": "Кроссовки Balenciaga Triple S",
+    "price": 15000,
+    "sku": "Артикул 20123",
+    "img": "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/instite.png",
+    "season": "Демисезон",
+    "color": "Белый/Бежевый",
+    "category": "Лайфстайл",
+    "brand": "Balenciaga",
+    "description": "Знаменитые 'уродливые' кроссовки с тройной подошвой от Balenciaga.",
+    "date": "2025-08-20"
+  },
+   {
+    "id": 30,
+    "title": "Кеды DC Shoes Court Graffik",
+    "price": 4300,
+    "sku": "Артикул 20124",
+    "img": "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/support.png",
+    "season": "Демисезон",
+    "color": "Черный/Серый",
+    "category": "Скейтбординг",
+    "brand": "DC Shoes",
+    "description": "Классические скейтерские кеды с большим логотипом DC.",
+    "date": "2025-08-25"
+  },
+  {
+    "id": 31,
+    "title": "Кроссовки Under Armour HOVR Phantom",
+    "price": 8100,
+    "sku": "Артикул 20125",
+    "img": "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/nstite.png",
+    "season": "Демисезон",
+    "color": "Серый/Красный",
+    "category": "Тренировочные",
+    "brand": "Under Armour",
+    "description": "Кроссовки с технологией HOVR для ощущения невесомости.",
+    "date": "2025-09-01"
+  },
+   {
+    "id": 32,
+    "title": "Кроссовки Nike Air Max 90",
+    "price": 7900,
+    "sku": "Артикул 20126",
+    "img": "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/advpk1.png",
+    "season": "Демисезон",
+    "color": "Инфракрасный/Белый",
+    "category": "Классические модели",
+    "brand": "Nike",
+    "description": "Еще одна легендарная модель Air Max в классической расцветке.",
+    "date": "2025-09-05"
+  },
+   {
+    "id": 33,
+    "title": "Кроссовки Adidas Gazelle",
+    "price": 5300,
+    "sku": "Артикул 20127",
+    "img": "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/yeezyslide.png",
+    "season": "Лето",
+    "color": "Зеленый",
+    "category": "Классические модели",
+    "brand": "Adidas",
+    "description": "Классические замшевые кроссовки Adidas Gazelle из 60-х.",
+    "date": "2025-09-10"
+  },
+  {
+    "id": 34,
+    "title": "Кроссовки Puma Cali",
+    "price": 4700,
+    "sku": "Артикул 20128",
+    "img": "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/yeezyslancky.png",
+    "season": "Лето",
+    "color": "Белый/Розовый",
+    "category": "Лайфстайл",
+    "brand": "Puma",
+    "description": "Женские кроссовки в калифорнийском стиле с толстой подошвой.",
+    "date": "2025-09-15"
+  },
+  {
+    "id": 35,
+    "title": "Кроссовки New Balance 327",
+    "price": 7200,
+    "sku": "Артикул 20129",
+    "img": "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/instite.png",
+    "season": "Демисезон",
+    "color": "Оранжевый/Синий",
+    "category": "Лайфстайл",
+    "brand": "New Balance",
+    "description": "Современный взгляд на беговые силуэты 70-х от New Balance.",
+    "date": "2025-09-20"
+  },
+   {
+    "id": 36,
+    "title": "Кроссовки Reebok Zig Kinetica",
+    "price": 6500,
+    "sku": "Артикул 20130",
+    "img": "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/support.png",
+    "season": "Демисезон",
+    "color": "Черный/Зеленый",
+    "category": "Тренировочные",
+    "brand": "Reebok",
+    "description": "Футуристические кроссовки с зигзагообразной подошвой для возврата энергии.",
+    "date": "2025-09-25"
+  },
+  {
+    "id": 37,
+    "title": "Кеды Converse One Star",
+    "price": 4400,
+    "sku": "Артикул 20131",
+    "img": "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/nstite.png",
+    "season": "Лето",
+    "color": "Желтый",
+    "category": "Скейтбординг",
+    "brand": "Converse",
+    "description": "Низкие кеды Converse с характерной звездой сбоку.",
+    "date": "2025-10-01"
+  },
+   {
+    "id": 38,
+    "title": "Кроссовки Nike SB Dunk Low",
+    "price": 8500,
+    "sku": "Артикул 20132",
+    "img": "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/advpk1.png",
+    "season": "Демисезон",
+    "color": "Разноцветный",
+    "category": "Скейтбординг",
+    "brand": "Nike",
+    "description": "Популярные скейтерские кроссовки Nike SB Dunk в низкой версии.",
+    "date": "2025-10-05"
+  },
+  {
+    "id": 39,
+    "title": "Кроссовки Adidas NMD_R1",
+    "price": 7900,
+    "sku": "Артикул 20133",
+    "img": "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/yeezyslide.png",
+    "season": "Демисезон",
+    "color": "Серый/Красный",
+    "category": "Лайфстайл",
+    "brand": "Adidas",
+    "description": "Современные кроссовки, вдохновленные беговыми моделями, с амортизацией Boost.",
+    "date": "2025-10-10"
+  },
+   {
+    "id": 40,
+    "title": "Кроссовки Asics Gel-Lyte III",
+    "price": 6300,
+    "sku": "Артикул 20134",
+    "img": "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/yeezyslancky.png",
+    "season": "Демисезон",
+    "color": "Белый/Бирюзовый",
+    "category": "Классические модели",
+    "brand": "Asics",
+    "description": "Классическая модель Asics с раздвоенным язычком.",
+    "date": "2025-10-15"
   }
 ]
 
