@@ -31,7 +31,7 @@
         "season": "Лето",
         "color": "Черный",
         "category": "Сандалии и сланцы",
-        "brand": "Adidas",
+        "brand": "Nike",
         "description": "Стильные черные сланцы для летнего сезона и бассейна.",
         "date": "2025-02-14",
         "availableSizesList": [
@@ -55,7 +55,7 @@
         "season": "Демисезон",
         "color": "Красный",
         "category": "Бег",
-        "brand": "Adidas",
+        "brand": "Puma",
         "description": "Кроссовки с технологией амортизации Bounce, обеспечивающей гибкость и поддержку.",
         "date": "2025-03-03",
         "availableSizesList": [
@@ -79,7 +79,7 @@
         "season": "Зима",
         "color": "Фиолетовый / Оранжевый",
         "category": "Кроссовки с мехом",
-        "brand": "Adidas",
+        "brand": "Reebok",
         "description": "Обновлённая модель EQT Support ADV с лёгкой подошвой и усиленным задником.",
         "date": "2025-03-19",
         "availableSizesList": [
@@ -102,7 +102,7 @@
         "season": "Демисезон",
         "color": "Белый",
         "category": "Тренировочные",
-        "brand": "Adidas",
+        "brand": "Asics",
         "description": "Функциональные кроссовки с амортизацией и стильным дизайном.",
         "date": "2025-04-09",
         "availableSizesList": [
@@ -125,7 +125,7 @@
         "season": "Демисезон",
         "color": "Красный/Черный",
         "category": "Повседневные",
-        "brand": "Adidas",
+        "brand": "New Balance",
         "description": "Лёгкие спортивные кроссовки с сетчатым верхом и классическим силуэтом.",
         "date": "2025-04-21",
         "availableSizesList": [
@@ -149,7 +149,7 @@
         "season": "Лето",
         "color": "Черный/Синий",
         "category": "Лайфстайл",
-        "brand": "Nike",
+        "brand": "Converse",
         "description": "Популярная модель Air Max с большой видимой воздушной подушкой.",
         "date": "2025-05-01",
         "availableSizesList": [
@@ -174,7 +174,7 @@
         "season": "Демисезон",
         "color": "Белый/Красный/Синий",
         "category": "Повседневные",
-        "brand": "Puma",
+        "brand": "Vans",
         "description": "Массивные кроссовки в стиле ретро-футуризма с технологией Running System.",
         "date": "2025-05-05",
         "availableSizesList": [
@@ -199,7 +199,7 @@
         "season": "Лето",
         "color": "Белый",
         "category": "Классические модели",
-        "brand": "Converse",
+        "brand": "Jordan",
         "description": "Легендарные кеды с высоким верхом из парусины.",
         "date": "2025-05-10",
         "availableSizesList": [
@@ -224,7 +224,7 @@
         "season": "Демисезон",
         "color": "Серый",
         "category": "Повседневные",
-        "brand": "New Balance",
+        "brand": "Under Armour",
         "description": "Классическая модель New Balance с технологией ENCAP для поддержки.",
         "date": "2025-05-15",
         "availableSizesList": [
@@ -248,7 +248,7 @@
         "season": "Демисезон",
         "color": "Белый",
         "category": "Классические модели",
-        "brand": "Reebok",
+        "brand": "Salomon",
         "description": "Иконическая модель Reebok из мягкой кожи.",
         "date": "2025-05-20",
         "availableSizesList": [
@@ -271,7 +271,7 @@
         "season": "Демисезон",
         "color": "Синий/Серебристый",
         "category": "Бег",
-        "brand": "Asics",
+        "brand": "Columbia",
         "description": "Премиальные беговые кроссовки с технологией GEL.",
         "date": "2025-05-25",
         "availableSizesList": [
@@ -295,7 +295,7 @@
         "season": "Лето",
         "color": "Черный/Белый",
         "category": "Скейтбординг",
-        "brand": "Vans",
+        "brand": "The North Face",
         "description": "Классические скейтерские кеды с боковой полосой Jazz Stripe.",
         "date": "2025-06-01",
         "availableSizesList": [
@@ -320,7 +320,7 @@
         "season": "Демисезон",
         "color": "Белый",
         "category": "Лайфстайл",
-        "brand": "Nike",
+        "brand": "Timberland",
         "description": "Легендарные баскетбольные кроссовки, ставшие иконой стиля.",
         "date": "2025-06-05",
         "availableSizesList": [
@@ -346,7 +346,7 @@
         "season": "Зима",
         "color": "Желтый (Wheat)",
         "category": "Ботинки",
-        "brand": "Timberland",
+        "brand": "Caterpillar",
         "description": "Классические водонепроницаемые ботинки из премиального нубука.",
         "date": "2025-06-10",
         "availableSizesList": [
@@ -371,7 +371,7 @@
         "season": "Лето",
         "color": "Белый/Зеленый",
         "category": "Теннис",
-        "brand": "Adidas",
+        "brand": "Dr. Martens",
         "description": "Иконические теннисные туфли с минималистичным дизайном.",
         "date": "2025-06-15",
         "availableSizesList": [
@@ -396,7 +396,7 @@
         "season": "Демисезон",
         "color": "Красный/Черный/Белый",
         "category": "Баскетбол",
-        "brand": "Jordan",
+        "brand": "Balenciaga",
         "description": "Легендарная первая модель именных кроссовок Майкла Джордана.",
         "date": "2025-06-20",
         "availableSizesList": [
@@ -423,7 +423,7 @@
         "season": "Демисезон",
         "color": "Черный/Красный",
         "category": "Треккинг",
-        "brand": "Salomon",
+        "brand": "Alexander McQueen",
         "description": "Популярные кроссовки для трейлраннинга с агрессивным протектором.",
         "date": "2025-06-25",
         "availableSizesList": [
@@ -447,7 +447,7 @@
         "season": "Демисезон",
         "color": "Белый",
         "category": "Кроссовки на платформе",
-        "brand": "Fila",
+        "brand": "Gucci",
         "description": "Массивные кроссовки в стиле 90-х с характерной 'зубастой' подошвой.",
         "date": "2025-07-01",
         "availableSizesList": [
@@ -469,8 +469,8 @@
         "img": "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/support.png",
         "season": "Демисезон",
         "color": "Белый/Серебристый",
-        "category": "Повседневные",
-        "brand": "Skechers",
+        "category": "Лимитированные серии",
+        "brand": "Fila",
         "description": "Удобные и стильные кроссовки с эффектом памяти Memory Foam.",
         "date": "2025-07-05",
         "availableSizesList": [
@@ -493,8 +493,8 @@
         "img": "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/yeezyslide.png",
         "season": "Лето",
         "color": "Серый/Оранжевый",
-        "category": "Лайфстайл",
-        "brand": "Nike",
+        "category": "Баскетбол",
+        "brand": "Skechers",
         "description": "Современные кроссовки с пеной React для легкости и комфорта.",
         "date": "2025-07-10",
         "availableSizesList": [
@@ -541,8 +541,8 @@
         "img": "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/instite.png",
         "season": "Демисезон",
         "color": "Синий",
-        "category": "Классические модели",
-        "brand": "Puma",
+        "category": "Ботинки",
+        "brand": "Nike",
         "description": "Классические замшевые кеды Puma, ставшие иконой уличной моды.",
         "date": "2025-07-20",
         "availableSizesList": [
@@ -564,8 +564,8 @@
         "img": "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/support.png",
         "season": "Демисезон",
         "color": "Серый",
-        "category": "Повседневные",
-        "brand": "New Balance",
+        "category": "Кроссовки с мехом",
+        "brand": "Puma",
         "description": "Премиальная модель New Balance, сочетающая комфорт и стиль.",
         "date": "2025-07-25",
         "availableSizesList": [
@@ -588,8 +588,8 @@
         "img": "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/nstite.png",
         "season": "Зима",
         "color": "Черный",
-        "category": "Ботинки",
-        "brand": "Dr. Martens",
+        "category": "Сандалии и сланцы",
+        "brand": "Reebok",
         "description": "Культовые ботинки Dr. Martens с 8 люверсами и прочной подошвой.",
         "date": "2025-08-01",
         "availableSizesList": [
@@ -612,8 +612,8 @@
         "img": "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/advpk1.png",
         "season": "Демисезон",
         "color": "Белый/Красный",
-        "category": "Лайфстайл",
-        "brand": "Nike",
+        "category": "Сапоги",
+        "brand": "Asics",
         "description": "Винтажные баскетбольные кроссовки с высоким профилем.",
         "date": "2025-08-05",
         "availableSizesList": [
@@ -636,8 +636,8 @@
         "img": "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/yeezyslide.png",
         "season": "Лето",
         "color": "Белый/Синий",
-        "category": "Баскетбол",
-        "brand": "Adidas",
+        "category": "Футболь",
+        "brand": "New Balance",
         "description": "Классические низкие баскетбольные кроссовки Adidas Forum.",
         "date": "2025-08-10",
         "availableSizesList": [
@@ -661,8 +661,8 @@
         "img": "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/yeezyslancky.png",
         "season": "Демисезон",
         "color": "Голубой/Желтый",
-        "category": "Бег",
-        "brand": "Hoka",
+        "category": "Вело",
+        "brand": "Converse",
         "description": "Легкие и мягкие кроссовки для ежедневных пробежек от Hoka.",
         "date": "2025-08-15",
         "availableSizesList": [
@@ -685,8 +685,8 @@
         "img": "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/instite.png",
         "season": "Демисезон",
         "color": "Белый/Бежевый",
-        "category": "Лайфстайл",
-        "brand": "Balenciaga",
+        "category": "Повседневные",
+        "brand": "Vans",
         "description": "Знаменитые 'уродливые' кроссовки с тройной подошвой от Balenciaga.",
         "date": "2025-08-20",
         "availableSizesList": [
@@ -708,8 +708,8 @@
         "img": "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/support.png",
         "season": "Демисезон",
         "color": "Черный/Серый",
-        "category": "Скейтбординг",
-        "brand": "DC Shoes",
+        "category": "Лайфстайл",
+        "brand": "Jordan",
         "description": "Классические скейтерские кеды с большим логотипом DC.",
         "date": "2025-08-25",
         "availableSizesList": [
@@ -733,7 +733,7 @@
         "img": "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/nstite.png",
         "season": "Демисезон",
         "color": "Серый/Красный",
-        "category": "Тренировочные",
+        "category": "Треккинг",
         "brand": "Under Armour",
         "description": "Кроссовки с технологией HOVR для ощущения невесомости.",
         "date": "2025-09-01",
@@ -757,8 +757,8 @@
         "img": "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/advpk1.png",
         "season": "Демисезон",
         "color": "Инфракрасный/Белый",
-        "category": "Классические модели",
-        "brand": "Nike",
+        "category": "Теннис",
+        "brand": "Salomon",
         "description": "Еще одна легендарная модель Air Max в классической расцветке.",
         "date": "2025-09-05",
         "availableSizesList": [
@@ -782,8 +782,8 @@
         "img": "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/yeezyslide.png",
         "season": "Лето",
         "color": "Зеленый",
-        "category": "Классические модели",
-        "brand": "Adidas",
+        "category": "Скейтбординг",
+        "brand": "Columbia",
         "description": "Классические замшевые кроссовки Adidas Gazelle из 60-х.",
         "date": "2025-09-10",
         "availableSizesList": [
@@ -805,8 +805,8 @@
         "img": "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/yeezyslancky.png",
         "season": "Лето",
         "color": "Белый/Розовый",
-        "category": "Лайфстайл",
-        "brand": "Puma",
+        "category": "Волейбол",
+        "brand": "The North Face",
         "description": "Женские кроссовки в калифорнийском стиле с толстой подошвой.",
         "date": "2025-09-15",
         "availableSizesList": [
@@ -828,8 +828,8 @@
         "img": "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/instite.png",
         "season": "Демисезон",
         "color": "Оранжевый/Синий",
-        "category": "Лайфстайл",
-        "brand": "New Balance",
+        "category": "Тренировочные",
+        "brand": "Timberland",
         "description": "Современный взгляд на беговые силуэты 70-х от New Balance.",
         "date": "2025-09-20",
         "availableSizesList": [
@@ -852,8 +852,8 @@
         "img": "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/support.png",
         "season": "Демисезон",
         "color": "Черный/Зеленый",
-        "category": "Тренировочные",
-        "brand": "Reebok",
+        "category": "Высокие кроссовки",
+        "brand": "Caterpillar",
         "description": "Футуристические кроссовки с зигзагообразной подошвой для возврата энергии.",
         "date": "2025-09-25",
         "availableSizesList": [
@@ -876,8 +876,8 @@
         "img": "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/nstite.png",
         "season": "Лето",
         "color": "Желтый",
-        "category": "Скейтбординг",
-        "brand": "Converse",
+        "category": "Низкие кроссовки",
+        "brand": "Dr. Martens",
         "description": "Низкие кеды Converse с характерной звездой сбоку.",
         "date": "2025-10-01",
         "availableSizesList": [
@@ -900,8 +900,8 @@
         "img": "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/advpk1.png",
         "season": "Демисезон",
         "color": "Разноцветный",
-        "category": "Скейтбординг",
-        "brand": "Nike",
+        "category": "Кроссовки на платформе",
+        "brand": "Balenciaga",
         "description": "Популярные скейтерские кроссовки Nike SB Dunk в низкой версии.",
         "date": "2025-10-05",
         "availableSizesList": [
@@ -924,8 +924,8 @@
         "img": "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/yeezyslide.png",
         "season": "Демисезон",
         "color": "Серый/Красный",
-        "category": "Лайфстайл",
-        "brand": "Adidas",
+        "category": "Классические модели",
+        "brand": "Alexander McQueen",
         "description": "Современные кроссовки, вдохновленные беговыми моделями, с амортизацией Boost.",
         "date": "2025-10-10",
         "availableSizesList": [
@@ -949,8 +949,8 @@
         "img": "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/yeezyslancky.png",
         "season": "Демисезон",
         "color": "Белый/Бирюзовый",
-        "category": "Классические модели",
-        "brand": "Asics",
+        "category": "Лимитированные серии",
+        "brand": "Gucci",
         "description": "Классическая модель Asics с раздвоенным язычком.",
         "date": "2025-10-15",
         "availableSizesList": [
@@ -966,7 +966,6 @@
         ]
     }
 ]
-
 
 
 
