@@ -9,7 +9,7 @@
         "color": "Бежевый",
         "category": "Сандалии и сланцы",
         "brand": "Adidas",
-        "description": "Минималистичные сланцы Adidas Yeezy Slide идеально подойдут для повседневной носки.",
+        "description": "Сланцы Adidas Yeezy Slide – это квинтэссенция минимализма и комфорта для летнего сезона. Их цельнолитая конструкция из легкого пеноматериала обеспечивает невероятную мягкость и адаптацию к стопе. Широкий ремешок надежно фиксирует ногу, а продуманный дизайн подошвы способствует оптимальной вентиляции. Эти сланцы созданы для максимального расслабления и удобства как дома, так и на пляже. \n- Максимальный комфорт\n- Легкая и мягкая конструкция\n- Идеальны для жаркой погоды",
         "date": "02 января 2025",
         "availableSizesList": [
             "38 EUR",
@@ -32,7 +32,11 @@
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/yeezyslide(2).png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/1/Adidas-slancy-Adidas-Yeezy-slide-2-1000x750_результат_результат.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/1/Adidas-slancy-Adidas-Yeezy-slide-2-1000x750_результат.png"
-        ]
+        ],
+        "shoeModel": "Yeezy Slide",
+        "detailedColor": "Светло-бежевый",
+        "styleCategory": "Минималистичный",
+        "primaryUse": "Для отдыха"
     },
     {
         "id": 2,
@@ -44,7 +48,7 @@
         "color": "Черный",
         "category": "Сандалии и сланцы",
         "brand": "Nike",
-        "description": "Стильные черные сланцы для летнего сезона и бассейна.",
+        "description": "Стильные черные сланцы для летнего сезона и бассейна. Эти сланцы обеспечивают удобство при ходьбе благодаря мягкой подошве. Изготовлены из прочного материала, который быстро сохнет и подходит для использования у воды. Глубокий рельеф подошвы предотвращает скольжение, делая их безопасными на мокрых поверхностях. Простая, но надежная конструкция обеспечивает комфорт для повседневной носки.\n- Водостойкие материалы\n- Антискользящая подошва\n- Идеальны для бассейна",
         "date": "14 февраля 2025",
         "availableSizesList": [
             "39 EUR",
@@ -68,7 +72,11 @@
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/Adidas Yeezy Slide (Черные).png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/2/Adidas-slancy-Adidas-Yeezy-slide-2-1000x750 2_результат.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/2/Adidas-slancy-Adidas-Yeezy-slide-3-1000x750 3_результат.png"
-        ]
+        ],
+        "shoeModel": "Yeezy Slide",
+        "detailedColor": "Угольно-черный",
+        "styleCategory": "Повседневный",
+        "primaryUse": "Для бассейна и пляжа"
     },
     {
         "id": 3,
@@ -80,7 +88,7 @@
         "color": "Красный",
         "category": "Бег",
         "brand": "Puma",
-        "description": "Кроссовки с технологией амортизации Bounce, обеспечивающей гибкость и поддержку.",
+        "description": "Кроссовки Adidas Alphabounce Instinct – это обувь, созданная для тех, кто ищет баланс между стилем и производительностью. Их верхняя часть из текстиля обеспечивает отличную воздухопроницаемость, а технология Bounce в подошве гарантирует адаптивную амортизацию и возврат энергии при каждом шаге. Уникальный дизайн шнуровки надежно обхватывает стопу, предоставляя необходимую поддержку во время тренировок и активного отдыха.\n- Отзывчивая амортизация\n- Дышащий материал верха\n- Надежная фиксация стопы",
         "date": "03 марта 2025",
         "availableSizesList": [
             "40 EUR",
@@ -104,7 +112,11 @@
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/instite.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/3/krossovki-muzhskie-adidas-alphabounce-instinct-all-red-2_результат.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/3/krossovki-muzhskie-adidas-alphabounce-instinct-all-red-3_результат.png"
-        ]
+        ],
+        "shoeModel": "Alphabounce Instinct",
+        "detailedColor": "Насыщенный красный",
+        "styleCategory": "Динамичный спортивный",
+        "primaryUse": "Для ежедневных пробежек"
     },
     {
         "id": 4,
@@ -112,11 +124,11 @@
         "price": 6700,
         "sku": "Артикул 19659",
         "img": "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/support.png",
-        "season": "Зима",
-        "color": "Фиолетовый / Оранжевый",
-        "category": "Кроссовки с мехом",
+        "season": "Лето",
+        "color": "Разноцветный",
+        "category": "Спортивный стиль",
         "brand": "Reebok",
-        "description": "Обновлённая модель EQT Support ADV с лёгкой подошвой и усиленным задником.",
+        "description": "Кроссовки Nike Air Presto – обувь, которая создана с учетом максимальной вентиляции стопы и комфорта при ношении и занятиях спортом. Верхняя часть кроссовок изготовлена из материала, который обеспечивает идеальный микроклимат внутри обуви и комфорт при ношении. Подошва эластичная и в пяточной части имеет вставки «Air Sole» для лучшей амортизации. Глубокий рельеф протектора обеспечивает мягкость хода и удобство при ношении. Для фиксации стопы предусмотрена шнуровка через специальный каркас, который при затягивании образует жесткую и эластичную конструкцию.\n- Комфортный микроклимат\n- Легкий вес\n- Амортизация стопы",
         "date": "19 марта 2025",
         "availableSizesList": [
             "41 EUR",
@@ -139,7 +151,11 @@
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/support.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/4/krossovki-zhenskie-nike-air-presto-air-presto-ultra-br-wmns-sunset-glow-pink-purple-white-2_результат.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/4/krossovki-zhenskie-nike-air-presto-air-presto-ultra-br-wmns-sunset-glow-pink-purple-white-6_результат.png"
-        ]
+        ],
+        "shoeModel": "Air Presto",
+        "detailedColor": "Красный с голубым и черным",
+        "styleCategory": "Футуристический спортивный",
+        "primaryUse": "Для активного образа жизни"
     },
     {
         "id": 5,
@@ -151,7 +167,7 @@
         "color": "Белый",
         "category": "Тренировочные",
         "brand": "Asics",
-        "description": "Функциональные кроссовки с амортизацией и стильным дизайном.",
+        "description": "Кроссовки Adidas Alphabounce Instinct (Белые) – это идеальный выбор для тех, кто ценит функциональность и стиль. Верх из легких и дышащих материалов обеспечивает отличную вентиляцию, поддерживая оптимальный микроклимат для стопы. Гибкая подошва с технологией амортизации Bounce по всей длине гарантирует комфорт и поддержку при каждом движении, будь то тренировка или повседневная прогулка.\n- Оптимальная вентиляция\n- Комфортная амортизация\n- Подходят для тренировок",
         "date": "09 апреля 2025",
         "availableSizesList": [
             "39 EUR",
@@ -174,7 +190,11 @@
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/nstite(1).png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/5/krossovki-nike-air-max-90-19607-razmer-obuvi-45-3-16278744_результат.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/5/krossovki-nike-air-max-90-19607-razmer-obuvi-45-4-16278744_результат.png"
-        ]
+        ],
+        "shoeModel": "Alphabounce Instinct",
+        "detailedColor": "Ярко-белый",
+        "styleCategory": "Классический спортивный",
+        "primaryUse": "Для тренировок"
     },
     {
         "id": 6,
@@ -186,7 +206,7 @@
         "color": "Красный/Черный",
         "category": "Повседневные",
         "brand": "New Balance",
-        "description": "Лёгкие спортивные кроссовки с сетчатым верхом и классическим силуэтом.",
+        "description": "Кроссовки Adidas EQT Support ADV PK – это легкие и стильные кроссовки, сочетающие классический дизайн с современными технологиями. Верх из дышащего сетчатого материала и замшевых накладок обеспечивает комфорт и долговечность. Упругая подошва гарантирует отличную амортизацию и мягкость при ходьбе, а уникальная система шнуровки обеспечивает надежную фиксацию стопы. Идеальный выбор для повседневного использования и легких спортивных активностей.\n- Легкость и гибкость\n- Дышащий верх\n- Удобная посадка",
         "date": "21 апреля 2025",
         "availableSizesList": [
             "40 EUR",
@@ -210,7 +230,11 @@
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/advpk1.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/6/adidas-eqt-support-adv-pk-7838-2_результат.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/6/adidas-eqt-support-adv-pk-7838-3_результат.png"
-        ]
+        ],
+        "shoeModel": "EQT Support ADV PK",
+        "detailedColor": "Красный с черными акцентами",
+        "styleCategory": "Уличный стиль",
+        "primaryUse": "На каждый день"
     },
     {
         "id": 7,
@@ -222,7 +246,7 @@
         "color": "Черный/Синий",
         "category": "Лайфстайл",
         "brand": "Converse",
-        "description": "Популярная модель Air Max с большой видимой воздушной подушкой.",
+        "description": "Кроссовки Nike Air Max 270 – это современная классика, отличающаяся самой большой видимой воздушной подушкой Air Max в истории. Верх выполнен из легкой сетки, обеспечивающей превосходную вентиляцию, а асимметричная шнуровка гарантирует индивидуальную подгонку. Эта модель создана для максимального комфорта в повседневной носке, предлагая непревзойденную амортизацию и стильный, футуристичный вид.\n- Максимальная амортизация\n- Легкий и дышащий верх\n- Стильный дизайн",
         "date": "01 мая 2025",
         "availableSizesList": [
             "41 EUR",
@@ -247,7 +271,11 @@
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/Nike Air Max 270.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/7/91t0elo8a0eeb369j1bf1fkbj1apqgll_результат.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/7/i2qtsu61puun8kk9azszuedjskxz74ol_результат.png"
-        ]
+        ],
+        "shoeModel": "Air Max 270",
+        "detailedColor": "Черно-синий градиент",
+        "styleCategory": "Современный лайфстайл",
+        "primaryUse": "Для повседневной носки"
     },
     {
         "id": 8,
@@ -259,7 +287,7 @@
         "color": "Белый/Красный/Синий",
         "category": "Повседневные",
         "brand": "Vans",
-        "description": "Массивные кроссовки в стиле ретро-футуризма с технологией Running System.",
+        "description": "Кроссовки Puma RS-X – это воплощение ретро-футуристического стиля с массивным силуэтом и яркими цветовыми решениями. Изготовлены с использованием технологии Running System, обеспечивающей превосходную амортизацию и комфорт. Комбинированный верх из сетки и синтетических накладок гарантирует хорошую вентиляцию и поддержку. Эта модель идеально подходит для создания смелых повседневных образов, предлагая удобство и уникальный дизайн.\n- Массивный ретро-дизайн\n- Технология амортизации Running System\n- Яркие акценты",
         "date": "05 мая 2025",
         "availableSizesList": [
             "39 EUR",
@@ -284,7 +312,11 @@
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/Puma RS-X.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/8/puma-rs-x-42177-1_результат.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/8/puma-rs-x-42177-4_результат_1_результат.png"
-        ]
+        ],
+        "shoeModel": "RS-X",
+        "detailedColor": "Белый с ярко-красными и синими вставками",
+        "styleCategory": "Ретро-футуризм",
+        "primaryUse": "Для активного городского образа"
     },
     {
         "id": 9,
@@ -296,7 +328,7 @@
         "color": "Белый",
         "category": "Классические модели",
         "brand": "Jordan",
-        "description": "Легендарные кеды с высоким верхом из парусины.",
+        "description": "Кеды Converse Chuck Taylor All Star – это абсолютная классика, которая остается актуальной на протяжении десятилетий. Их узнаваемый высокий силуэт и прочный парусиновый верх обеспечивают комфорт и долговечность. Вулканизированная резиновая подошва с ромбовидным протектором гарантирует отличное сцепление. Эти кеды идеально подходят для создания расслабленного и стильного повседневного образа.\n- Культовый дизайн\n- Прочные материалы\n- Универсальность",
         "date": "10 мая 2025",
         "availableSizesList": [
             "38 EUR",
@@ -320,7 +352,11 @@
         "sliderImages": [
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/Converse Chuck Taylor All Star.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/9/cdg-play-x-converse-chuck-taylor-collection-29799-3_результат.png"
-        ]
+        ],
+        "shoeModel": "Chuck Taylor All Star",
+        "detailedColor": "Чистый белый",
+        "styleCategory": "Вечная классика",
+        "primaryUse": "Для повседневного образа"
     },
     {
         "id": 10,
@@ -332,7 +368,7 @@
         "color": "Серый",
         "category": "Повседневные",
         "brand": "Under Armour",
-        "description": "Классическая модель New Balance с технологией ENCAP для поддержки.",
+        "description": "Кроссовки New Balance 574 – это одна из самых узнаваемых и любимых моделей бренда, сочетающая классический дизайн с современным комфортом. Верх из замши и сетки обеспечивает долговечность и воздухопроницаемость, а технология ENCAP в подошве гарантирует оптимальную поддержку и амортизацию. Эти кроссовки идеально подходят для ежедневного использования, предлагая удобство и стильный вид для любого гардероба.\n- Классический дизайн\n- Поддержка ENCAP\n- Универсальность",
         "date": "15 мая 2025",
         "availableSizesList": [
             "40 EUR",
@@ -355,7 +391,11 @@
         "sliderImages": [
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/New Balance 574.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/10/new-balance-574-35481-2_результат.png"
-        ]
+        ],
+        "shoeModel": "574",
+        "detailedColor": "Светло-серый",
+        "styleCategory": "Иконический повседневный",
+        "primaryUse": "Для комфортной ходьбы"
     },
     {
         "id": 11,
@@ -367,7 +407,7 @@
         "color": "Белый",
         "category": "Классические модели",
         "brand": "Salomon",
-        "description": "Иконическая модель Reebok из мягкой кожи.",
+        "description": "Кроссовки Reebok Classic Leather – это вечная классика, которая легко вписывается в любой гардероб. Их верх из мягкой натуральной кожи обеспечивает долговечность и комфорт, а легкая и амортизирующая подошва из ЭВА гарантирует мягкость каждого шага. Эти кроссовки идеально подходят для создания как спортивного, так и кэжуал образа, предлагая непревзойденное удобство и стиль.\n- Мягкая натуральная кожа\n- Легкая амортизация\n- Универсальный дизайн",
         "date": "20 мая 2025",
         "availableSizesList": [
             "39 EUR",
@@ -389,7 +429,11 @@
         "sliderImages": [
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/Reebok Classic Leather.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/11/images_результат.png"
-        ]
+        ],
+        "shoeModel": "Classic Leather",
+        "detailedColor": "Кремовый белый",
+        "styleCategory": "Классика 80-х",
+        "primaryUse": "Для повседневной носки"
     },
     {
         "id": 12,
@@ -401,7 +445,7 @@
         "color": "Синий/Серебристый",
         "category": "Бег",
         "brand": "Columbia",
-        "description": "Премиальные беговые кроссовки с технологией GEL.",
+        "description": "Кроссовки Asics Gel-Kayano – это флагманская модель для бега, разработанная для обеспечения максимальной поддержки и комфорта на длинных дистанциях. Их верх из многослойной сетки обеспечивает отличную воздухопроницаемость, а легендарная технология GEL в передней и задней части стопы гарантирует превосходную амортизацию и поглощение ударов. Система Dynamic DuoMax™ обеспечивает стабильность и поддержку стопы, делая эти кроссовки идеальными для ежедневных тренировок.\n- Высокий уровень амортизации\n- Отличная поддержка стопы\n- Дышащие материалы",
         "date": "25 мая 2025",
         "availableSizesList": [
             "41 EUR",
@@ -425,7 +469,11 @@
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/Asics Gel-Kayano.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/12/7030670406_результат.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/12/7030670424_результат.png"
-        ]
+        ],
+        "shoeModel": "Gel-Kayano",
+        "detailedColor": "Темно-синий с металликом",
+        "styleCategory": "Технологичный спортивный",
+        "primaryUse": "Для долгих пробежек"
     },
     {
         "id": 13,
@@ -437,7 +485,7 @@
         "color": "Черный/Белый",
         "category": "Скейтбординг",
         "brand": "The North Face",
-        "description": "Классические скейтерские кеды с боковой полосой Jazz Stripe.",
+        "description": "Кеды Vans Old Skool – это икона скейтбординга и уличной культуры, известная своим узнаваемым боковым джазовым полосой. Прочный замшевый и парусиновый верх выдерживает интенсивное использование, а усиленный носок и мягкий бортик обеспечивают комфорт. Фирменная вафельная подошва гарантирует отличное сцепление с доской. Идеально подходят для скейтбординга и создания аутентичного повседневного образа.\n- Узнаваемый дизайн\n- Прочные материалы\n- Отличное сцепление",
         "date": "01 июня 2025",
         "availableSizesList": [
             "38 EUR",
@@ -462,7 +510,11 @@
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/Vans Old Skool.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/13/vans-old-skool-28168-2_результат.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/13/vans-old-skool-28168-3_результат.png"
-        ]
+        ],
+        "shoeModel": "Old Skool",
+        "detailedColor": "Классический черно-белый",
+        "styleCategory": "Скейтерский, городской",
+        "primaryUse": "Для скейтбординга и повседневной носки"
     },
     {
         "id": 14,
@@ -474,7 +526,7 @@
         "color": "Белый",
         "category": "Лайфстайл",
         "brand": "Timberland",
-        "description": "Легендарные баскетбольные кроссовки, ставшие иконой стиля.",
+        "description": "Кроссовки Nike Air Force 1 – это легендарная баскетбольная модель, ставшая иконой уличной моды. Верх из высококачественной кожи обеспечивает прочность и комфорт, а скрытая вставка Air-Sole в подошве гарантирует отличную амортизацию. Перфорация в области носка способствует вентиляции, а немаркая резиновая подошва обеспечивает надежное сцепление. Это универсальная модель, которая идеально подходит для повседневного стиля и дополняет любой образ.\n- Культовый дизайн\n- Прочные материалы\n- Комфортная амортизация",
         "date": "05 июня 2025",
         "availableSizesList": [
             "39 EUR",
@@ -500,7 +552,11 @@
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/Nike%20Air%20Force%201.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/14/nike-air-force-1-low-928-2_результат.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/14/nike-air-force-1-low-928-3_результат.png"
-        ]
+        ],
+        "shoeModel": "Air Force 1",
+        "detailedColor": "Чистый белый",
+        "styleCategory": "Культовый баскетбольный",
+        "primaryUse": "Для повседневного городского стиля"
     },
     {
         "id": 15,
@@ -512,7 +568,7 @@
         "color": "Желтый (Wheat)",
         "category": "Ботинки",
         "brand": "Caterpillar",
-        "description": "Классические водонепроницаемые ботинки из премиального нубука.",
+        "description": "Ботинки Timberland 6-Inch Premium – это классика, которая уже десятилетия остается символом надежности и стиля. Изготовленные из водонепроницаемого нубука премиум-класса, они обеспечивают сухость и комфорт в любую погоду. Уникальная конструкция с герметичными швами и прочная резиновая подошва гарантируют долговечность и отличное сцепление. Эти ботинки идеально подходят как для городских условий, так и для приключений на природе.\n- Водонепроницаемость\n- Прочные материалы\n- Классический дизайн",
         "date": "10 июня 2025",
         "availableSizesList": [
             "40 EUR",
@@ -535,7 +591,11 @@
         ],
         "sliderImages": [
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/Timberland 6-Inch Premium.png"
-        ]
+        ],
+        "shoeModel": "6-Inch Premium Boot",
+        "detailedColor": "Пшеничный",
+        "styleCategory": "Классические рабочие",
+        "primaryUse": "Для города и активного отдыха"
     },
     {
         "id": 16,
@@ -547,7 +607,7 @@
         "color": "Белый/Зеленый",
         "category": "Теннис",
         "brand": "Dr. Martens",
-        "description": "Иконические теннисные туфли с минималистичным дизайном.",
+        "description": "Кроссовки Adidas Stan Smith – это культовая теннисная обувь, которая стала иконой стиля благодаря своему минималистичному дизайну. Верх из натуральной кожи обеспечивает превосходный комфорт и долговечность. Перфорированные три полоски и фирменный логотип на язычке и заднике подчеркивают их уникальность. Эти кроссовки идеально подходят для создания чистого и элегантного повседневного образа.\n- Минималистичный дизайн\n- Высококачественная кожа\n- Универсальность в стиле",
         "date": "15 июня 2025",
         "availableSizesList": [
             "38 EUR",
@@ -572,7 +632,11 @@
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/Adidas Stan Smith.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/16/Снимок экрана 2025-06-10 210630_результат.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/16/Снимок экрана 2025-06-10 210655_результат.png"
-        ]
+        ],
+        "shoeModel": "Stan Smith",
+        "detailedColor": "Белый с зеленым задником",
+        "styleCategory": "Минималистичный теннисный",
+        "primaryUse": "Для повседневной носки и тенниса"
     },
     {
         "id": 17,
@@ -584,7 +648,7 @@
         "color": "Красный/Черный/Белый",
         "category": "Баскетбол",
         "brand": "Balenciaga",
-        "description": "Легендарная первая модель именных кроссовок Майкла Джордана.",
+        "description": "Кроссовки Jordan Air Jordan 1 – это первая и, пожалуй, самая культовая модель именных кроссовок Майкла Джордана. Их кожаный верх обеспечивает превосходную прочность и поддержку, а технология Air-Sole в пяточной части гарантирует амортизацию при каждом прыжке. Эти кроссовки стали не просто спортивной обувью, а настоящим символом стиля и культурным феноменом.\n- Культовый баскетбольный дизайн\n- Премиальная кожа\n- Комфортная амортизация Air-Sole",
         "date": "20 июня 2025",
         "availableSizesList": [
             "41 EUR",
@@ -611,7 +675,11 @@
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/Jordan Air Jordan 1.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/17/Снимок экрана 2025-06-11 121635_результат.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/17/s-l1200_результат.png"
-        ]
+        ],
+        "shoeModel": "Air Jordan 1",
+        "detailedColor": "Красный, черный и белый",
+        "styleCategory": "Легендарный баскетбольный",
+        "primaryUse": "Для игры в баскетбол и для коллекционирования"
     },
     {
         "id": 18,
@@ -623,7 +691,7 @@
         "color": "Черный/Красный",
         "category": "Треккинг",
         "brand": "Alexander McQueen",
-        "description": "Популярные кроссовки для трейлраннинга с агрессивным протектором.",
+        "description": "Кроссовки Salomon Speedcross – это выбор профессионалов для трейлраннинга и сложных маршрутов. Их агрессивный протектор Contagrip® обеспечивает исключительное сцепление на любой поверхности, а легкий и прочный верх из сетки способствует отличной вентиляции. Система шнуровки Quicklace™ гарантирует быструю и надежную фиксацию стопы, делая эти кроссовки незаменимыми для активного отдыха на природе.\n- Агрессивное сцепление\n- Быстрая шнуровка\n- Защита и долговечность",
         "date": "25 июня 2025",
         "availableSizesList": [
             "40 EUR",
@@ -647,7 +715,11 @@
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/Salomon Speedcross.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/18/components_com__jshopping_files_img__products_471234____2_результат.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/18/components_com__jshopping_files_img__products_471234____4_результат.png"
-        ]
+        ],
+        "shoeModel": "Speedcross",
+        "detailedColor": "Черный с красными деталями",
+        "styleCategory": "Высокопроизводительный трейлраннинг",
+        "primaryUse": "Для бега по бездорожью"
     },
     {
         "id": 19,
@@ -659,7 +731,7 @@
         "color": "Белый",
         "category": "Кроссовки на платформе",
         "brand": "Gucci",
-        "description": "Массивные кроссовки в стиле 90-х с характерной 'зубастой' подошвой.",
+        "description": "Кроссовки Fila Disruptor II – это дерзкий и узнаваемый дизайн, вдохновленный модой 90-х. Их массивная подошва с характерными зубцами не только придает уникальный вид, но и обеспечивает отличную амортизацию. Верх из синтетической кожи гарантирует долговечность и легкость в уходе. Эти кроссовки станут ярким акцентом в любом образе, идеально подходя для создания смелых и трендовых повседневных комплектов.\n- Массивный дизайн\n- Отличная амортизация\n- Трендовый силуэт",
         "date": "01 июля 2025",
         "availableSizesList": [
             "38 EUR",
@@ -682,7 +754,11 @@
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/Fila Disruptor II.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/19/Снимок экрана 2025-06-10 211220_результат.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/19/Снимок экрана 2025-06-10 211249_результат.png"
-        ]
+        ],
+        "shoeModel": "Disruptor II",
+        "detailedColor": "Снежно-белый",
+        "styleCategory": "Массивный, ретро 90-х",
+        "primaryUse": "Для повседневной носки"
     },
     {
         "id": 20,
@@ -694,7 +770,7 @@
         "color": "Белый/Серебристый",
         "category": "Лимитированные серии",
         "brand": "Fila",
-        "description": "Удобные и стильные кроссовки с эффектом памяти Memory Foam.",
+        "description": "Кроссовки Skechers D'Lites – это идеальное сочетание комфорта и стильного спортивного дизайна. Их верх из натуральной кожи и сетчатых вставок обеспечивает долговечность и воздухопроницаемость. Основной акцент сделан на комфорт благодаря технологии Memory Foam в стельке, которая адаптируется к форме вашей стопы, обеспечивая индивидуальную амортизацию. Эти кроссовки прекрасно подходят для длительной ходьбы и повседневного использования.\n- Стелька Memory Foam\n- Комфортная посадка\n- Стильный спортивный вид",
         "date": "05 июля 2025",
         "availableSizesList": [
             "39 EUR",
@@ -718,7 +794,11 @@
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/Skechers D'Lites.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/20/Снимок экрана 2025-06-11 121443_результат.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/20/Снимок экрана 2025-06-11 121459_результат.png"
-        ]
+        ],
+        "shoeModel": "D'Lites",
+        "detailedColor": "Белый с серебристыми элементами",
+        "styleCategory": "Комфортный повседневный",
+        "primaryUse": "Для ежедневной ходьбы"
     },
     {
         "id": 21,
@@ -730,7 +810,7 @@
         "color": "Серый/Оранжевый",
         "category": "Баскетбол",
         "brand": "Skechers",
-        "description": "Современные кроссовки с пеной React для легкости и комфорта.",
+        "description": "Кроссовки Nike React Element 55 – это современная модель, сочетающая инновационный комфорт и футуристический дизайн. Верх из легкого текстиля и замшевых накладок обеспечивает гибкость и поддержку, а уникальная технология Nike React в подошве гарантирует невероятную мягкость и возврат энергии при каждом шаге. Резиновые шипы на подошве обеспечивают отличное сцепление. Эти кроссовки идеально подходят для повседневной носки и легких тренировок, предлагая непревзойденный комфорт.\n- Инновационная амортизация React\n- Легкость и комфорт\n- Современный дизайн",
         "date": "10 июля 2025",
         "availableSizesList": [
             "40 EUR",
@@ -753,7 +833,11 @@
         "sliderImages": [
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/Nike React Element 55.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/21/Снимок экрана 2025-06-10 211930_результат.png"
-        ]
+        ],
+        "shoeModel": "React Element 55",
+        "detailedColor": "Серый с оранжевыми вставками",
+        "styleCategory": "Современный, технологичный",
+        "primaryUse": "Для повседневной носки и легких тренировок"
     },
     {
         "id": 22,
@@ -765,7 +849,7 @@
         "color": "Черный",
         "category": "Бег",
         "brand": "Adidas",
-        "description": "Беговые кроссовки с максимальной отдачей энергии благодаря пене Boost.",
+        "description": "Кроссовки Adidas Ultraboost 22 – это высокопроизводительная беговая обувь, созданная для максимальной отдачи энергии и комфорта на любой дистанции. Верх Primeknit+ обеспечивает плотную и поддерживающую посадку, а межподошва Boost гарантирует непревзойденную амортизацию и возврат энергии. Система Linear Energy Push (LEP) увеличивает отзывчивость подошвы. Идеально подходят для ежедневных тренировок и соревнований, предлагая уникальное сочетание комфорта и динамики.\n- Максимальная отдача энергии\n- Адаптивная посадка\n- Превосходная амортизация",
         "date": "15 июля 2025",
         "availableSizesList": [
             "41 EUR",
@@ -789,7 +873,11 @@
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/Adidas Ultraboost 22.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/22/Снимок экрана 2025-06-10 212321_результат.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/22/Снимок экрана 2025-06-10 212505_результат.png"
-        ]
+        ],
+        "shoeModel": "Ultraboost 22",
+        "detailedColor": "Насыщенный черный",
+        "styleCategory": "Премиум беговые",
+        "primaryUse": "Для бега на длинные дистанции"
     },
     {
         "id": 23,
@@ -801,7 +889,7 @@
         "color": "Синий",
         "category": "Ботинки",
         "brand": "Nike",
-        "description": "Классические замшевые кеды Puma, ставшие иконой уличной моды.",
+        "description": "Кеды Puma Suede Classic – это вневременная икона уличной моды, известная своим простым, но элегантным замшевым верхом. Прочная резиновая подошва обеспечивает хорошее сцепление и долговечность. Эти кеды идеально подходят для создания расслабленного и стильного повседневного образа, добавляя нотку ретро-шика.\n- Классический дизайн\n- Мягкий замшевый верх\n- Долговечность",
         "date": "20 июля 2025",
         "availableSizesList": [
             "39 EUR",
@@ -824,7 +912,11 @@
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/Puma Suede Classic.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/23/Снимок экрана 2025-06-10 213310_результат.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/23/Снимок экрана 2025-06-10 213407_результат.png"
-        ]
+        ],
+        "shoeModel": "Suede Classic",
+        "detailedColor": "Королевский синий",
+        "styleCategory": "Ретро, уличный",
+        "primaryUse": "Для повседневной носки"
     },
     {
         "id": 24,
@@ -836,7 +928,7 @@
         "color": "Серый",
         "category": "Кроссовки с мехом",
         "brand": "Puma",
-        "description": "Премиальная модель New Balance, сочетающая комфорт и стиль.",
+        "description": "Кроссовки New Balance 990v5 – это эталон комфорта и качества, разработанный для тех, кто ценит премиальные материалы и безупречную амортизацию. Верх из замши и сетки обеспечивает долговечность и воздухопроницаемость, а межподошва ENCAP® и ABZORB® гарантирует исключительную поддержку и поглощение ударов. Эти кроссовки идеально подходят для ежедневной носки, предлагая стабильность и комфорт на весь день.\n- Премиальные материалы\n- Превосходная амортизация\n- Стабильность и поддержка",
         "date": "25 июля 2025",
         "availableSizesList": [
             "40 EUR",
@@ -860,7 +952,11 @@
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/New Balance 990v5.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/24/Снимок экрана 2025-06-10 213024_результат.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/24/Снимок экрана 2025-06-10 213040_результат.png"
-        ]
+        ],
+        "shoeModel": "990v5",
+        "detailedColor": "Темно-серый",
+        "styleCategory": "Премиум, повседневный",
+        "primaryUse": "Для ежедневной носки"
     },
     {
         "id": 25,
@@ -872,7 +968,7 @@
         "color": "Черный",
         "category": "Сандалии и сланцы",
         "brand": "Reebok",
-        "description": "Культовые ботинки Dr. Martens с 8 люверсами и прочной подошвой.",
+        "description": "Ботинки Dr. Martens 1460 – это культовая модель, которая уже десятилетия является символом индивидуальности и бунтарского духа. Изготовленные из прочной гладкой кожи, они обеспечивают долговечность и со временем только улучшают свой вид. Уникальная подошва AirWair™ с воздушной подушкой гарантирует отличную амортизацию и комфорт, а желтая строчка и петля на заднике делают их мгновенно узнаваемыми.\n- Культовый дизайн\n- Прочная кожа\n- Комфортная амортизация",
         "date": "01 августа 2025",
         "availableSizesList": [
             "39 EUR",
@@ -896,7 +992,11 @@
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/Dr. Martens 1460.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/25/Снимок экрана 2025-06-10 213840_результат.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/25/Снимок экрана 2025-06-10 213903_результат.png"
-        ]
+        ],
+        "shoeModel": "1460 Boot",
+        "detailedColor": "Классический черный",
+        "styleCategory": "Культовый, бунтарский",
+        "primaryUse": "Для повседневной носки и стиля"
     },
     {
         "id": 26,
@@ -908,7 +1008,7 @@
         "color": "Белый/Красный",
         "category": "Сапоги",
         "brand": "Asics",
-        "description": "Винтажные баскетбольные кроссовки с высоким профилем.",
+        "description": "Кроссовки Nike Blazer Mid '77 – это винтажная баскетбольная модель, ставшая иконой уличной моды. Их высокий профиль и верх из кожи и замши обеспечивают поддержку и долговечность. Винтажная обработка межподошвы и характерный большой свуш придают им аутентичный ретро-вид. Эти кроссовки идеально подходят для создания стильного повседневного образа, сочетая спортивное наследие с современными тенденциями.\n- Винтажный баскетбольный стиль\n- Прочные материалы\n- Высокий профиль для поддержки",
         "date": "05 августа 2025",
         "availableSizesList": [
             "40 EUR",
@@ -932,7 +1032,11 @@
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/Nike Blazer Mid '77.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/26/63939671588894_результат.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/26/Снимок экрана 2025-06-11 114137_результат.png"
-        ]
+        ],
+        "shoeModel": "Blazer Mid '77",
+        "detailedColor": "Белый с красной галочкой",
+        "styleCategory": "Винтажный баскетбольный",
+        "primaryUse": "Для повседневной носки и стиля"
     },
     {
         "id": 27,
@@ -944,7 +1048,7 @@
         "color": "Белый/Синий",
         "category": "Футболь",
         "brand": "New Balance",
-        "description": "Классические низкие баскетбольные кроссовки Adidas Forum.",
+        "description": "Кроссовки Adidas Forum Low – это переиздание классической баскетбольной модели 80-х, адаптированной для современного городского стиля. Верх из высококачественной кожи обеспечивает долговечность и комфорт, а регулируемый ремешок на липучке добавляет дополнительную фиксацию. Резиновая подошва гарантирует отличное сцепление. Эти кроссовки идеально подходят для повседневной носки, предлагая удобство и культовый ретро-вид.\n- Классический баскетбольный дизайн\n- Регулируемый ремешок\n- Культовый ретро-вид",
         "date": "10 августа 2025",
         "availableSizesList": [
             "39 EUR",
@@ -969,7 +1073,11 @@
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/Adidas Forum Low.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/27/Снимок экрана 2025-06-11 114304_результат.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/27/Снимок экрана 2025-06-11 114357_результат.png"
-        ]
+        ],
+        "shoeModel": "Forum Low",
+        "detailedColor": "Белый с голубыми акцентами",
+        "styleCategory": "Классический баскетбольный",
+        "primaryUse": "Для повседневной носки"
     },
     {
         "id": 28,
@@ -981,7 +1089,7 @@
         "color": "Голубой/Желтый",
         "category": "Вело",
         "brand": "Converse",
-        "description": "Легкие и мягкие кроссовки для ежедневных пробежек от Hoka.",
+        "description": "Кроссовки Hoka Clifton 8 – это воплощение максимальной амортизации и плавности хода для ежедневных пробежек. Их легкий и дышащий верх из сетки обеспечивает комфортную посадку, а объемная промежуточная подошва из ЭВА гарантирует непревзойденное поглощение ударов. Технология Meta-Rocker способствует плавному перекату стопы. Идеально подходят для тренировок на асфальте и длительных пробежек, предлагая исключительный комфорт.\n- Максимальная амортизация\n- Легкий и дышащий верх\n- Плавный перекат стопы",
         "date": "15 августа 2025",
         "availableSizesList": [
             "40 EUR",
@@ -1003,7 +1111,11 @@
         ],
         "sliderImages": [
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/Hoka Clifton 8.png"
-        ]
+        ],
+        "shoeModel": "Clifton 8",
+        "detailedColor": "Небесно-голубой с желтыми элементами",
+        "styleCategory": "Максимальная амортизация",
+        "primaryUse": "Для ежедневных пробежек"
     },
     {
         "id": 29,
@@ -1015,7 +1127,7 @@
         "color": "Белый/Бежевый",
         "category": "Повседневные",
         "brand": "Vans",
-        "description": "Знаменитые 'уродливые' кроссовки с тройной подошвой от Balenciaga.",
+        "description": "Кроссовки Balenciaga Triple S – это одни из самых узнаваемых и влиятельных моделей в мире высокой моды, известная своей массивной тройной подошвой. Верх из комбинации кожи, замши и сетки создает многослойный и сложный вид. Эта модель является не просто обувью, а заявлением о стиле, идеально подходящим для создания авангардных и ультрамодных образов.\n- Массивная тройная подошва\n- Высокий статус в моде\n- Уникальный дизайн",
         "date": "20 августа 2025",
         "availableSizesList": [
             "39 EUR",
@@ -1038,7 +1150,11 @@
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/Balenciaga Triple S.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/29/item-1181d054-34b9-4c4f-aca4-875b50618a80_результат.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/29/item-70c3dc27-9596-4ddc-b50a-e1ed1192f4f7_результат.png"
-        ]
+        ],
+        "shoeModel": "Triple S",
+        "detailedColor": "Белый с серыми и бежевыми вставками",
+        "styleCategory": "Массивная подошва, люкс",
+        "primaryUse": "Для модного повседневного стиля"
     },
     {
         "id": 30,
@@ -1050,7 +1166,7 @@
         "color": "Черный/Серый",
         "category": "Лайфстайл",
         "brand": "Jordan",
-        "description": "Классические скейтерские кеды с большим логотипом DC.",
+        "description": "Кеды DC Shoes Court Graffik – это классическая модель для скейтбординга, известная своим узнаваемым объемным логотипом DC. Их прочный кожаный верх обеспечивает долговечность и поддержку, а вентиляционные отверстия способствуют циркуляции воздуха. Мягкий воротник и язычок гарантируют комфорт, а износостойкая резиновая подошва с фирменным протектором обеспечивает отличное сцепление. Идеально подходят для ежедневного катания и создания расслабленного уличного образа.\n- Прочный кожаный верх\n- Отличная вентиляция\n- Надежное сцепление",
         "date": "25 августа 2025",
         "availableSizesList": [
             "40 EUR",
@@ -1075,7 +1191,11 @@
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/DC Shoes Court Graffik.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/30/1_результат.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/30/6821906236_результат.png"
-        ]
+        ],
+        "shoeModel": "Court Graffik",
+        "detailedColor": "Черный с серым логотипом",
+        "styleCategory": "Скейтерский, классический",
+        "primaryUse": "Для повседневной носки"
     },
     {
         "id": 31,
@@ -1087,7 +1207,7 @@
         "color": "Серый/Красный",
         "category": "Треккинг",
         "brand": "Under Armour",
-        "description": "Кроссовки с технологией HOVR для ощущения невесомости.",
+        "description": "Кроссовки Under Armour HOVR Phantom – это инновационная модель для бега, обеспечивающая ощущение «невесомости» благодаря технологии HOVR. Верх SpeedForm® 2.0 обеспечивает точную и комфортную посадку, адаптируясь к форме стопы. Межподошва HOVR™ гарантирует превосходную амортизацию и возврат энергии, снижая нагрузку на суставы. Эти кроссовки идеально подходят для ежедневных тренировок, предлагая баланс между мягкостью и отзывчивостью.\n- Технология HOVR™ для амортизации\n- Адаптивная посадка\n- Легкость и комфорт",
         "date": "01 сентября 2025",
         "availableSizesList": [
             "41 EUR",
@@ -1110,7 +1230,11 @@
         "sliderImages": [
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/Under Armour HOVR Phantom.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/31/Снимок экрана 2025-06-11 115310_результат.png"
-        ]
+        ],
+        "shoeModel": "HOVR Phantom",
+        "detailedColor": "Серый с красными акцентами",
+        "styleCategory": "Инновационный спортивный",
+        "primaryUse": "Для бега и тренировок"
     },
     {
         "id": 32,
@@ -1122,7 +1246,7 @@
         "color": "Инфракрасный/Белый",
         "category": "Теннис",
         "brand": "Salomon",
-        "description": "Еще одна легендарная модель Air Max в классической расцветке.",
+        "description": "Кроссовки Nike Air Max 90 – это культовая модель, которая остается фаворитом благодаря своему классическому дизайну и легендарной амортизации Air. Верх из комбинации кожи, замши и текстиля обеспечивает прочность и комфорт. Видимая вставка Max Air в пяточной части гарантирует превосходное поглощение ударов. Эти кроссовки идеально подходят для повседневной носки, добавляя ретро-шарм любому образу.\n- Культовый дизайн\n- Надежная амортизация Max Air\n- Универсальный стиль",
         "date": "05 сентября 2025",
         "availableSizesList": [
             "39 EUR",
@@ -1146,7 +1270,11 @@
         "sliderImages": [
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/Nike Air Max 90.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/32/images_результат.png"
-        ]
+        ],
+        "shoeModel": "Air Max 90",
+        "detailedColor": "Ярко-красный с белым",
+        "styleCategory": "Культовый ретро",
+        "primaryUse": "Для повседневной носки"
     },
     {
         "id": 33,
@@ -1158,7 +1286,7 @@
         "color": "Зеленый",
         "category": "Скейтбординг",
         "brand": "Columbia",
-        "description": "Классические замшевые кроссовки Adidas Gazelle из 60-х.",
+        "description": "Кроссовки Adidas Gazelle – это классическая модель, которая впервые появилась в 60-х годах и по сей день является иконой стиля. Их замшевый верх обеспечивает мягкость и комфорт, а культовый силуэт с тремя полосками придает узнаваемость. Резиновая подошва обеспечивает хорошее сцепление. Эти кроссовки идеально подходят для создания винтажного и повседневного образа, добавляя нотку спортивной элегантности.\n- Вневременной дизайн\n- Мягкий замшевый верх\n- Универсальность в стиле",
         "date": "10 сентября 2025",
         "availableSizesList": [
             "38 EUR",
@@ -1181,7 +1309,11 @@
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/Adidas Gazelle.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/33/29608_1_результат.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/33/Снимок экрана 2025-06-11 115610_результат.png"
-        ]
+        ],
+        "shoeModel": "Gazelle",
+        "detailedColor": "Изумрудно-зеленый",
+        "styleCategory": "Ретро, классический",
+        "primaryUse": "Для повседневной носки и стиля"
     },
     {
         "id": 34,
@@ -1193,7 +1325,7 @@
         "color": "Белый/Розовый",
         "category": "Волейбол",
         "brand": "The North Face",
-        "description": "Женские кроссовки в калифорнийском стиле с толстой подошвой.",
+        "description": "Кроссовки Puma Cali – это стильная женская модель, вдохновленная калифорнийским стилем и классическими теннисными силуэтами. Их кожаный верх и массивная резиновая подошва обеспечивают комфорт и долговечность. Перфорация в области носка способствует вентиляции, а фирменные детали Puma добавляют узнаваемости. Эти кроссовки идеально подходят для создания свежего и модного повседневного образа, предлагая удобство и актуальный дизайн.\n- Модный дизайн\n- Удобная посадка\n- Прочные материалы",
         "date": "15 сентября 2025",
         "availableSizesList": [
             "38 EUR",
@@ -1216,7 +1348,11 @@
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/Puma Cali.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/34/3874590155K-sneaker-search-1_результат.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/34/3874590155K-sneaker-search-3_результат.png"
-        ]
+        ],
+        "shoeModel": "Cali",
+        "detailedColor": "Белый с нежно-розовым",
+        "styleCategory": "Женский, повседневный",
+        "primaryUse": "Для повседневной носки"
     },
     {
         "id": 35,
@@ -1228,7 +1364,7 @@
         "color": "Оранжевый/Синий",
         "category": "Тренировочные",
         "brand": "Timberland",
-        "description": "Современный взгляд на беговые силуэты 70-х от New Balance.",
+        "description": "Кроссовки New Balance 327 – это смелый и современный взгляд на классические беговые силуэты 70-х. Их асимметричный дизайн и увеличенный логотип  делают их мгновенно узнаваемыми. Верх из комбинации замши и нейлона обеспечивает комфорт и долговечность, а резиновая подошва с шипами, заходящая на задник, гарантирует отличное сцепление. Эти кроссовки идеально подходят для создания стильного повседневного образа с ноткой ретро-спорта.\n- Смелый ретро-дизайн\n- Комфортная посадка\n- Отличное сцепление",
         "date": "20 сентября 2025",
         "availableSizesList": [
             "40 EUR",
@@ -1252,7 +1388,11 @@
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/New Balance 327.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/35/briva-laika-apavi-viriesiem-new-balance-u327lg-05a01_reference_результат.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/35/NewBalanceTrainers327DarkEarth_результат.png"
-        ]
+        ],
+        "shoeModel": "327",
+        "detailedColor": "Насыщенный оранжевый и темно-синий",
+        "styleCategory": "Ретро-беговые",
+        "primaryUse": "Для повседневной носки"
     },
     {
         "id": 36,
@@ -1264,7 +1404,7 @@
         "color": "Черный/Зеленый",
         "category": "Высокие кроссовки",
         "brand": "Caterpillar",
-        "description": "Футуристические кроссовки с зигзагообразной подошвой для возврата энергии.",
+        "description": "Кроссовки Reebok Zig Kinetica – это футуристическая модель, разработанная для обеспечения максимального возврата энергии и комфорта. Уникальная зигзагообразная подошва Zig Energy Shell обеспечивает динамичную амортизацию, а верх из дышащего текстиля с синтетическими накладками гарантирует поддержку. Эти кроссовки идеально подходят для тренировок и повседневной носки, предлагая смелый дизайн и передовые технологии.\n- Максимальный возврат энергии\n- Футуристический дизайн\n- Комфорт и поддержка",
         "date": "25 сентября 2025",
         "availableSizesList": [
             "41 EUR",
@@ -1288,7 +1428,11 @@
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/Nike SB Dunk Low.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/36/images_результат.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/36/reebok-zig-kinetica-ii-edge-cordura-black_результат.png"
-        ]
+        ],
+        "shoeModel": "Zig Kinetica",
+        "detailedColor": "Черный с ярко-зеленым",
+        "styleCategory": "Футуристический, авангардный",
+        "primaryUse": "Для активного образа жизни и тренировок"
     },
     {
         "id": 37,
@@ -1300,7 +1444,7 @@
         "color": "Желтый",
         "category": "Низкие кроссовки",
         "brand": "Dr. Martens",
-        "description": "Низкие кеды Converse с характерной звездой сбоку.",
+        "description": "Кеды Converse One Star – это переиздание классической баскетбольной модели, ставшей популярной в скейт-культуре. Их замшевый верх с фирменной звездой на боковой стороне обеспечивает комфорт и узнаваемый стиль. Прочная резиновая подошва гарантирует отличное сцепление с доской. Эти кеды идеально подходят для создания расслабленного повседневного образа с ноткой винтажного стиля.\n- Классический скейтерский дизайн\n- Мягкий замшевый верх\n- Узнаваемая звезда",
         "date": "01 октября 2025",
         "availableSizesList": [
             "38 EUR",
@@ -1324,7 +1468,11 @@
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/Adidas NMD_R1.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/37/30108255_результат.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/37/images_результат.png"
-        ]
+        ],
+        "shoeModel": "One Star",
+        "detailedColor": "Яркий желтый",
+        "styleCategory": "Скейтерский, классический",
+        "primaryUse": "Для повседневной носки"
     },
     {
         "id": 38,
@@ -1336,7 +1484,7 @@
         "color": "Разноцветный",
         "category": "Кроссовки на платформе",
         "brand": "Balenciaga",
-        "description": "Популярные скейтерские кроссовки Nike SB Dunk в низкой версии.",
+        "description": "Кроссовки Nike SB Dunk Low – это культовая модель для скейтбординга, которая завоевала популярность благодаря своему прочному дизайну и отличной амортизации. Верх из комбинации кожи и замши выдерживает интенсивные нагрузки, а низкопрофильный силуэт обеспечивает свободу движений. Вставка Zoom Air в пяточной части гарантирует отзывчивую амортизацию. Эти кроссовки идеально подходят как для катания на скейтборде, так и для создания стильного повседневного образа.\n- Прочный верх\n- Амортизация Zoom Air\n- Культовый дизайн",
         "date": "05 октября 2025",
         "availableSizesList": [
             "40 EUR",
@@ -1360,7 +1508,11 @@
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/Asics Gel-Lyte III.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/38/dfvcxz_результат.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/38/images_результат.png"
-        ]
+        ],
+        "shoeModel": "SB Dunk Low",
+        "detailedColor": "Комбинация синего, красного и белого",
+        "styleCategory": "Скейтерский, коллекционный",
+        "primaryUse": "Для скейтбординга и повседневной носки"
     },
     {
         "id": 39,
@@ -1372,7 +1524,7 @@
         "color": "Серый/Красный",
         "category": "Классические модели",
         "brand": "Alexander McQueen",
-        "description": "Современные кроссовки, вдохновленные беговыми моделями, с амортизацией Boost.",
+        "description": "Кроссовки Adidas NMD_R1 – это современная модель, вдохновленная беговыми силуэтами, которая сочетает в себе стиль и комфорт. Их текстильный верх обеспечивает плотную и гибкую посадку, а технология Boost в межподошве гарантирует невероятную амортизацию и возврат энергии. Характерные заглушки на межподошве добавляют узнаваемости. Эти кроссовки идеально подходят для повседневной носки, предлагая удобство на протяжении всего дня.\n- Амортизация Boost\n- Легкость и комфорт\n- Современный дизайн",
         "date": "10 октября 2025",
         "availableSizesList": [
             "39 EUR",
@@ -1397,7 +1549,11 @@
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/Reebok Zig Kinetica.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/39/IE4694_02_standard_hover_результат.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/39/IE4694_04_standard_результат.png"
-        ]
+        ],
+        "shoeModel": "NMD_R1",
+        "detailedColor": "Серый с красными блоками",
+        "styleCategory": "Современный беговой",
+        "primaryUse": "Для повседневной носки"
     },
     {
         "id": 40,
@@ -1409,7 +1565,7 @@
         "color": "Белый/Бирюзовый",
         "category": "Лимитированные серии",
         "brand": "Gucci",
-        "description": "Классическая модель Asics с раздвоенным язычком.",
+        "description": "Кроссовки Asics Gel-Lyte III – это культовая модель, известная своим уникальным раздвоенным язычком, который обеспечивает плотную и комфортную посадку. Верх из премиальной замши и сетки гарантирует долговечность и воздухопроницаемость. Технология GEL в межподошве обеспечивает превосходную амортизацию и поглощение ударов. Эти кроссовки идеально подходят для создания стильного повседневного образа, сочетая ретро-дизайн с современным комфортом.\n- Раздвоенный язычок для комфорта\n- Амортизация GEL\n- Премиальные материалы",
         "date": "15 октября 2025",
         "availableSizesList": [
             "40 EUR",
@@ -1433,7 +1589,11 @@
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/Converse One Star.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/40/b2fc76ebc4e14ae845c8bea0d1d4b300eb2e99e0_original_результат.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/40/images_результат.png"
-        ]
+        ],
+        "shoeModel": "Gel-Lyte III",
+        "detailedColor": "Белый с бирюзовыми вставками",
+        "styleCategory": "Ретро-беговые",
+        "primaryUse": "Для повседневной носки"
     }
 ]
 
