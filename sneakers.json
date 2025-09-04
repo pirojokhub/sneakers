@@ -4,7 +4,7 @@
         "title": "Сланцы Adidas Yeezy Slide",
         "price": 3290,
         "sku": "Артикул 19656",
-        "img": "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/yeezyslide(2).png",
+        "img": "https://tletfbjytzjqghrvkiud.supabase.co/storage/v1/object/public/product-images/1/Adidas-slancy-Adidas-Yeezy-slide-2.png",
         "season": "Лето",
         "color": "Бежевый",
         "category": "Сандалии и сланцы",
@@ -43,7 +43,7 @@
         "title": "Сланцы Adidas Yeezy Slide (Черные)",
         "price": 3290,
         "sku": "Артикул 19657",
-        "img": "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/Adidas Yeezy Slide (Черные).png",
+        "img": "https://tletfbjytzjqghrvkiud.supabase.co/storage/v1/object/public/product-images/2/Adidas%20Yeezy%20Slide%20black.png",
         "season": "Лето",
         "color": "Черный",
         "category": "Сандалии и сланцы",
@@ -69,7 +69,7 @@
             "Модель **Сланцы Adidas Yeezy Slide (Черные)** оснащена удобной эргономичной стелькой. И конечно же **Nike** не забыл встроить инновационные решения для амортизации и стиля в конструкцию, что делает эти **сандалии и сланцы** особенно привлекательными."
         ],
         "sliderImages": [
-            "https://raw.githubusercontent.com/pirojokhub/sneakers/main/img/Adidas Yeezy Slide (Черные).png",
+            "https://tletfbjytzjqghrvkiud.supabase.co/storage/v1/object/public/product-images/2/Adidas%20Yeezy%20Slide%20black.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/2/Adidas-slancy-Adidas-Yeezy-slide-2-1000x750 2_результат.png",
             "https://raw.githubusercontent.com/pirojokhub/sneakers/main/sliderImg6/2/Adidas-slancy-Adidas-Yeezy-slide-3-1000x750 3_результат.png"
         ],
@@ -1596,6 +1596,7 @@
         "primaryUse": "Для повседневной носки"
     }
 ]
+
 
 
 
