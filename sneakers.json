@@ -1366,7 +1366,7 @@
 		],
 		"sliderImages": [
 			"https://tletfbjytzjqghrvkiud.supabase.co/storage/v1/object/public/product-images/40/item-40%20(1).png",
-			"https://tletfbjytzjqghrvkiud.supabase.co/storage/v1/object/public/product-images/40/item-40%20(2).png",
+			"https://tletfbjytzjqghrvkiud.supabase.co/storage/v1/object/public/product-images/40/item-40%20(2).png"
 		],
 		"shoeModel": "Gel-Lyte III",
 		"detailedColor": "Белый с бирюзовыми вставками",
@@ -1374,6 +1374,7 @@
 		"primaryUse": "Для повседневной носки"
 	}
 ]
+
 
 
 
